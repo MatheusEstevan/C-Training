@@ -1,2 +1,2 @@
-# C-Training
+# C# -Training
 C# training
